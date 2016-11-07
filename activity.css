@@ -1,0 +1,47 @@
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 28px;
+	font-weight: bold;
+	line-height: 20px
+	/*line-spacing: 20px;*/
+}
+
+h3 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 20px
+	/*line-spacing: 20px;*/
+}
+
+h4 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 16px;
+	/*font-weight: bold;*/
+	line-height: 20px
+	/*line-spacing: 20px;*/
+}
+
+.bold {
+	font-family: "times new roman";
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 20px
+	/*line-spacing: 20px;*/
+}
+
+.large {
+	font-family: "times new roman";
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 25px
+	/*line-spacing: 20px;*/
+}
+
+.tall {
+	font-family: "times new roman";
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 50px
+	/*line-spacing: 20px;*/
+}
